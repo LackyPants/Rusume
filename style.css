@@ -7,6 +7,8 @@
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
+  background-color: #E8F0FC ;
+
 }
 
 img {
@@ -100,7 +102,7 @@ h3 {
   overflow: hidden;
   border: 10px solid #fff;
 
-  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+  background-image: linear-gradient(to right, #0066CC 0%, #E8F0FC  100%);
 
   animation: ava-animate 5s infinite alternate;
   box-shadow: 2px 5px 10px rgba(0, 0, 0, .5);
